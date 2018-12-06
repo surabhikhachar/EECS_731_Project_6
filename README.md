@@ -1,3 +1,5 @@
+This notebook uses an anomaly detection model to predict anomalies in a dataset of Facebook tweets. 
+
 Anomaly_Detection
 ==============================
 
